@@ -34,4 +34,4 @@ We continually tweak and adjust this template to help give you the best experien
 
 Happy coding!
 
-[![Build Status](https://travis-ci.com/Michael0812/e-commerce.svg?branch=master)](https://travis-ci.com/Michael0812/e-commerce)
+[![Build Status](https://travis-ci.org/Michael0812/e-commerce.svg?branch=master)](https://travis-ci.org/Michael0812/e-commerce)
